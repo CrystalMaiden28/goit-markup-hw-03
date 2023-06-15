@@ -62,11 +62,7 @@ body {
 	background: var(--brand-color);
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 	cursor: pointer;
-<<<<<<< Updated upstream
-	color: #fff;
-=======
 	color: #ffffff;
->>>>>>> Stashed changes
 }
 
 .lorem {
@@ -126,14 +122,11 @@ body {
 .contact-phone {
 	color: #757575;
 	text-decoration: none;
-<<<<<<< Updated upstream
 }
 
 .contact-phone:hover,
 .contact-phone:focus {
 	color: var(--brand-color);
-=======
->>>>>>> Stashed changes
 }
 
 .contact-phone:hover,
@@ -146,11 +139,6 @@ body {
 	line-height: 1.6;
 	cursor: pointer;
 	color: #212121;
-<<<<<<< Updated upstream
-	background-color: #f5f4fa;
-	border-radius: 4px;
-	border: none;
-=======
 	border: none;
 	border-radius: 4px;
 	background-color: #f5f4fa;
@@ -158,17 +146,12 @@ body {
 
 .button-list {
 	list-style: none;
->>>>>>> Stashed changes
 }
 
 .button:hover,
 .button:focus {
 	background-color: var(--brand-color);
-<<<<<<< Updated upstream
-	color: #ffffff;
-=======
 	color: #fff;
->>>>>>> Stashed changes
 	box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
 		0px 2px 2px rgba(0, 0, 0, 0.12);
 }
@@ -191,7 +174,6 @@ body {
 	color: #ffffff;
 }
 
-<<<<<<< Updated upstream
 .adress-footer {
 	font-size: 14px;
 	line-height: 1, 71;
@@ -205,13 +187,6 @@ body {
 }
 
 .color-footer {
-=======
-.color-footer {
-	background-color: #2f303a;
-}
-
-.color-section {
->>>>>>> Stashed changes
 	background-color: #2f303a;
 }
 
@@ -220,26 +195,12 @@ body {
 }
 
 .employee-photo {
-<<<<<<< Updated upstream
-=======
 	width: 270px;
 	height: 368px;
->>>>>>> Stashed changes
 	background-color: #ffffff;
 	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
 		0px 2px 1px rgba(0, 0, 0, 0.2);
 	border-radius: 0px 0px 4px 4px;
-<<<<<<< Updated upstream
-	width: 270px;
-	height: 368px;
-}
-
-.Miroslaw-zelent-rzadzi {
-	width: 370px;
-	height: 404px;
-	background: #ffffff;
-	border: 1px solid #eeeeee;
-=======
 }
 
 .adress-footer {
@@ -255,5 +216,4 @@ body {
 	width: 370px;
 	height: 404px;
 	border: 1px solid #eee;
->>>>>>> Stashed changes
 }
