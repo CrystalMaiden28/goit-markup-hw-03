@@ -81,6 +81,7 @@ img {
 	text-decoration: none;
 	color: #2e2f42;
 	display: flex;
+	padding: 24px 0;
 }
 
 .menu-nav:hover,
