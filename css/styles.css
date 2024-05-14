@@ -82,6 +82,7 @@ img {
 	color: #2e2f42;
 	padding: 24px 0;
 	gap: 40px;
+	display: flex;
 }
 
 .menu-nav:hover,
