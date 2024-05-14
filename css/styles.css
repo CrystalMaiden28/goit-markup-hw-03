@@ -80,8 +80,6 @@ img {
 	letter-spacing: 0.02em;
 	text-decoration: none;
 	color: #2e2f42;
-	padding: 24px 0;
-	gap: 40px;
 	display: flex;
 }
 
@@ -215,6 +213,8 @@ ul {
 
 .team-section {
 	background-color: #f4f4fd;
+	padding-top: 120px;
+	padding-bottom: 120px;
 }
 
 .our-team {
@@ -264,6 +264,8 @@ ul {
 
 .our-portfolio-section {
 	background-color: #f4f4fd;
+	padding-top: 120px;
+	padding-bottom: 120px;
 }
 
 .portfolio {
@@ -276,7 +278,6 @@ ul {
 	text-transform: capitalize;
 	color: #2e2f42;
 	text-align: center;
-	text-transform: capitalize;
 	margin-bottom: 72px;
 }
 
@@ -347,4 +348,8 @@ ul {
 	font-weight: 400;
 	font-size: 16px;
 	color: #f4f4fd;
+	line-height: 24px;
+	display: block;
+	flex-wrap: wrap;
+	width: 264px;
 }
